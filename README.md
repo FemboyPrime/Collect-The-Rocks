@@ -15,12 +15,11 @@ Press A to move left
 
 Instructions:
 
-Collect as many rocks as you can in under fifteen seconds
+Collect as many rocks as you can in under 3 seconds
 
 Technologies
 
 Simple GE
-
 
 Citations
 
